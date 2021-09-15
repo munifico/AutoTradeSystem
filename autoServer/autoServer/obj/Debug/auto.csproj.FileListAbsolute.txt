@@ -1,0 +1,17 @@
+D:\Active\autoServer\autoServer\obj\Debug\auto.csprojAssemblyReference.cache
+D:\Active\autoServer\autoServer\obj\Debug\Interop.KHOpenAPILib.dll
+D:\Active\autoServer\autoServer\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\Active\autoServer\autoServer\obj\Debug\auto.csproj.ResolveComReference.cache
+D:\Active\autoServer\autoServer\obj\Debug\autoServer.Form1.resources
+D:\Active\autoServer\autoServer\obj\Debug\autoServer.Properties.Resources.resources
+D:\Active\autoServer\autoServer\obj\Debug\auto.csproj.GenerateResource.cache
+D:\Active\autoServer\autoServer\bin\Debug\autoServer.exe.config
+D:\Active\autoServer\autoServer\bin\Debug\autoServer.exe
+D:\Active\autoServer\autoServer\bin\Debug\autoServer.pdb
+D:\Active\autoServer\autoServer\bin\Debug\Interop.KHOpenAPILib.dll
+D:\Active\autoServer\autoServer\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\Active\autoServer\autoServer\obj\Debug\auto.csproj.CopyComplete
+D:\Active\autoServer\autoServer\obj\Debug\autoServer.exe
+D:\Active\autoServer\autoServer\obj\Debug\autoServer.pdb
+D:\Active\autoServer\autoServer\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Active\autoServer\autoServer\obj\Debug\auto.csproj.CoreCompileInputs.cache

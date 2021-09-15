@@ -1,0 +1,16 @@
+D:\Active\db_chart_update\db_chart_update\bin\Debug\db_chart_update.exe.config
+D:\Active\db_chart_update\db_chart_update\bin\Debug\db_chart_update.exe
+D:\Active\db_chart_update\db_chart_update\bin\Debug\db_chart_update.pdb
+D:\Active\db_chart_update\db_chart_update\bin\Debug\Oracle.DataAccess.dll
+D:\Active\db_chart_update\db_chart_update\bin\Debug\Interop.KHOpenAPILib.dll
+D:\Active\db_chart_update\db_chart_update\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.csprojAssemblyReference.cache
+D:\Active\db_chart_update\db_chart_update\obj\Debug\Interop.KHOpenAPILib.dll
+D:\Active\db_chart_update\db_chart_update\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.csproj.ResolveComReference.cache
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.Form1.resources
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.Properties.Resources.resources
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.csproj.GenerateResource.cache
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.csproj.CopyComplete
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.exe
+D:\Active\db_chart_update\db_chart_update\obj\Debug\db_chart_update.pdb
